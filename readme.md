@@ -12,6 +12,8 @@ Created by [Dustin Keate](https://dkeate.dev)
 
 I have no idea what I'm doing.
 
-# License
+# Copyright
 
-Copyright 2023, Dustin Keate, All rights reserved.
+All problems are owned by [Project Euler](https://projecteuler.net/).
+
+All code is Copyright 2023, Dustin Keate, All rights reserved.
