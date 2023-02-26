@@ -9,7 +9,8 @@
 # 4**2=16, 4**3=64,  4**4=256, 4**5=1024
 # 5**2=25, 5**3=125, 5**4=625, 5**5=3125
 
-# If they are then placed in numerical order, with any repeats removed, we get the following sequence of 15 distinct terms:
+# If they are then placed in numerical order, with any repeats removed, we get the following
+# sequence of 15 distinct terms:
 
 # 4, 8, 9, 16, 25, 27, 32, 64, 81, 125, 243, 256, 625, 1024, 3125
 
