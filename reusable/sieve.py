@@ -1,9 +1,9 @@
 # Copyright 2023, Dustin Keate, All rights reserved.
 
-# Sieve or Eratosthenes returns a list of primes below a given value.
+# Sieve of Eratosthenes returns a list of primes below a given value.
 
 
-def sieve(max : int) -> [int]:
+def sieve(max : int) -> [bool]:
     test_list = [True for i in range(max + 1)]
     test_list[0] = False
     test_list[1] = False
